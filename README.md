@@ -32,7 +32,7 @@ This project demonstrates the application of the Decision Tree algorithm for pre
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Prediction_Using_Decision_Tree_Algorithm.git
+   git clone https://github.com/YagneshMangali/Prediction-Using-Decision-Tree-Algorithm.git
    ```
 2. **Install Dependencies**:
    ```bash
